@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Pal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="right" alt="coding" width="410" src="[![image](https://github.com/050ujjwal/050ujjwal/assets/71402939/fe7d0a77-00ae-44ba-a9b8-d67ad336ee90)](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952waemihtj4xxms6k91rrtqkfohsmvhbpulaph57zl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=050ujjwal&label=Profile%20views&color=0e75b6&style=flat" alt="050ujjwal" /> </p>
 
 - 🌱 I’m currently learning **Reactjs,**
